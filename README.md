@@ -1,10 +1,7 @@
 # Welcome
 
-Hi There! 👋
+Hi there!
 
-I'm Toby, a young dev. 
+I'm Toby, a University Student studying Electronic Engineering.
 
-Currently working on ;
-
-
-Thanks and have a good day! 🌴
+Currently Working on : 
