@@ -4,4 +4,9 @@ Hi there!
 
 I'm Toby, a University Student studying Electronic Engineering.
 
-Currently Working on : 
+My Skills
+
+<ul>
+  <li>C++</li>
+  <li>C</li>
+</ul>
