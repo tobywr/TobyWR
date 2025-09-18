@@ -1,11 +1,12 @@
 # Welcome
-
+<!DOCTYPE HTML>
+<html>
 <head>
   <meta charset="UTF-8">
   <title>Hi, I'm Toby!</title>
   <style>
     body {
-      font-family: times-new-roman;
+      font-family: "Times New Roman", times, serif;
       line-height: 1.6;
       max-width: 800px;
       margin: 20px auto;
@@ -19,7 +20,7 @@
       margin-left: 20px;
     }
     .skills{
-      font-style: italix;
+      font-style: italic;
       color: #555;
     }
   </style>
@@ -33,9 +34,10 @@
     <li>System Verilog / Verilog - RTL Design, FPGA Synthesis, Verification</li>
     <li>C - Embedded software, AVR toolchain</li>
   </ul>
-  <h2>Foundational Knowldege</h2>
+  <h2>Foundational Knowledge</h2>
   <ul>
     <li>C++</li>
     <li>Python</li>
   </ul>
 </body>
+</html>
