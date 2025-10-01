@@ -9,5 +9,5 @@ I'm an Electronic Engineering student, with a passion for FPGA engineering and R
 - **C** - Embedded software, AVR toolchain
 
 ### Foundational Knowledge  
-- **C++** - algorithms and data structures
-- **Python** - algorithms and databases
+- **C++**
+- **Python**
