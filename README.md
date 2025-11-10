@@ -4,10 +4,13 @@ I'm an Electronic Engineering student, with a passion for FPGA engineering and R
 
 ## Technical Skills
 
-### Developing Proficiency
+### Languages
 - **System Verilog / Verilog** - RTL Design, FPGA Synthesis, Verification
 - **C** - Embedded software, AVR toolchain
-
-### Foundational Knowledge  
 - **C++**
 - **Python**
+
+### Software
+- **Vivado** - STA, Simulating, Syntehsis and implementation.
+- **Quartus Prime**
+
